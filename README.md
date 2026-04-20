@@ -1,11 +1,12 @@
 ## API Django REST Framework
 
-Dit project bevat een RESTful API gebouwd met het Django REST Framework. 
-De API biedt toegang tot gegevens van alle lokale overheden in de provincie Friesland, Nederland. 
-Het is ontworpen om ontwikkelaars en data-analisten te helpen bij het ophalen en analyseren van gemeentelijke informatie via gestandaardiseerde API-eindpunten.
+This project features a RESTful API built with the Django REST Framework (DRF). 
+The API provides access to data regarding all local governments in the province of Friesland, Netherlands. 
+It is designed to assist developers and data analysts in retrieving and analyzing information through standardized API endpoints.
 
-### Specificaties
 
-- Implementaite Django REST Framework
-- SQLite Database
-- Postman voor het testen van de API eindpunten
+### Specifications
+
+- Implementation: Django REST Framework
+- Database: SQLite
+- Testing: Postman for API endpoint validation
