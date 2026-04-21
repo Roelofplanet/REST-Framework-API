@@ -10,3 +10,11 @@ It is designed to assist developers and data analysts in retrieving and analyzin
 - Implementation: Django REST Framework
 - Database: SQLite
 - Testing: Postman for API endpoint validation
+
+## Images
+
+#### API data list
+![data_list](data_list.png)
+
+#### Add new data
+![add_data](add_data.png)
