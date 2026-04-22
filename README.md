@@ -18,3 +18,6 @@ It is designed to assist developers and data analysts in retrieving and analyzin
 
 #### Add new data field
 ![add_data](add_data.png)
+
+#### Postman API test
+![postman_test](postman_test.png)
