@@ -16,5 +16,5 @@ It is designed to assist developers and data analysts in retrieving and analyzin
 #### API data list
 ![data_list](data_list.png)
 
-#### Add new data
+#### Add new data field
 ![add_data](add_data.png)
